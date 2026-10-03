@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of chinovn/flarum-button-bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/chinovn/flarum-button-bbcode) or the [upstream repository](https://github.com/chinovn/flarum-button-bbcode).
 
-**0** versions archived · Latest: [`v0.3`](https://github.com/flarchive/chinovn-flarum-button-bbcode/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.6 || ^1.0.0`
+**3** versions archived · Latest: [`v0.3`](https://github.com/flarchive/chinovn-flarum-button-bbcode/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.6 || ^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1` | 2022-08-13 | `^0.1.0-beta.6 || ^1.0.0` | [Browse](https://github.com/flarchive/chinovn-flarum-button-bbcode/tree/archive/v0.1) |
+| `v0.2` | 2022-08-13 | `^0.1.0-beta.6 || ^1.0.0` | [Browse](https://github.com/flarchive/chinovn-flarum-button-bbcode/tree/archive/v0.2) |
+| `v0.3` | 2022-08-21 | `^0.1.0-beta.6 || ^1.0.0` | [Browse](https://github.com/flarchive/chinovn-flarum-button-bbcode/tree/archive/v0.3) |
 
 Catalog entry: [packages/chinovn-flarum-button-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/chinovn-flarum-button-bbcode.json)
 
